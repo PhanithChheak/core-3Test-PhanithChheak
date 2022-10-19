@@ -3,4 +3,6 @@
     <string name="line_1">Line 1</string>
     <string name="line_2">Line 2</string>
     <string name="example_icon">example_icon</string>
+    <string name="line_3">Line 3</string>
+    <string name="menu">menu</string>
 </resources>
