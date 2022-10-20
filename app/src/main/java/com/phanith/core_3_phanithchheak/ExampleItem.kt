@@ -13,5 +13,4 @@ data class ExampleItem(
     val int2: Int,
     val int3: Int
 ) : Parcelable, Serializable {
-
 }

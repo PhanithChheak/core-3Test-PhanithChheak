@@ -19,8 +19,6 @@ class MainActivity : AppCompatActivity(),ExampleAdapter.OnItemClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-
         //read file
         val readfile = resources.openRawResource(R.raw.medallists).bufferedReader()
         readfile.readLine() //ignore headers
